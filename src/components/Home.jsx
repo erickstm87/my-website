@@ -26,12 +26,12 @@ export default class Home extends Component {
                         <Row>
                             <Col xs={6}>
                                 <a href='https://github.com/erickstm87' target="_blank">
-                                    <Image responsive src='assets/github.png' />
+                                    <Image responsive src='assets/github.png' style={{'padding-left': '50px'}}/>
                                 </a>
                             </Col>
                             <Col xs={6}>
                                 <a href="mailto:erickstm717@gmail.com">
-                                    <Image responsive src='assets/email.png' />
+                                    <Image responsive src='assets/email.png'/>
                                 </a>
                             </Col>
                         </Row>
