@@ -1,1 +1,17 @@
+nav.navbar, .navbar-default {
+    background-color: #205260 !important;
+}
 
+.navbar-default{
+    background-image: none;
+    border: none;
+    border-radius: 0;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: white;
+}
+
+.navbar-header > .navbar-brand {
+    color: white;
+}
