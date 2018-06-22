@@ -8,7 +8,7 @@ export default class Home extends Component {
         return (
             <Grid>
                 <div className='profile-pic'>
-                    <Image src='assets/meDr.jpg'  className='profile-pic' />
+                    <Image src='assets/meDr.jpg'  className='profile-pic' rounded/>
                     <h3>Thomas Michael Erickson</h3>
                     <p>Software Developer</p>
                 </div>
