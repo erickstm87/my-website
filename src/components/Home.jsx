@@ -30,7 +30,9 @@ export default class Home extends Component {
                                 </a>
                             </Col>
                             <Col xs={6}>
-                                <Image responsive src='assets/email.png' href='https://github.com/erickstm87' />
+                                <a href="mailto:erickstm717@gmail.com">
+                                    <Image responsive src='assets/email.png' />
+                                </a>
                             </Col>
                         </Row>
                     </Panel.Body>
